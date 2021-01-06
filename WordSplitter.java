@@ -1,8 +1,4 @@
 
-/*
-THIS CODE WAS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING ANY
-SOURCES OUTSIDE OF THOSE APPROVED BY THE INSTRUCTOR. [Wali Khan, 2308097]
-*/
 import java.util.Stack;
 public class WordSplitter {
     static Trie t = new Trie();
