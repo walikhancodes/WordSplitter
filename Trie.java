@@ -1,7 +1,4 @@
-/*
-THIS CODE WAS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING ANY
-SOURCES OUTSIDE OF THOSE APPROVED BY THE INSTRUCTOR. [Wali Khan, 2308097]
-*/
+
 import java.util.*;
 import java.io.BufferedReader;
 import java.io.FileReader;
