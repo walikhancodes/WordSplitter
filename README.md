@@ -1,6 +1,6 @@
 WordSplitter - 
 
-Implemented the following string processing algorithm: given a dictionary and a string with no whitespace, determined whether or not spaces can be inserted into the string so that each resulting word exists in the given dictionary. To make things efficient, the dictionary needs to be preprocessed into a trie (Trie.java) and the splitting should be found via dynamic programming. The program should accept the following input: 
+Implemented the following string processing algorithm: given a dictionary and a string with no whitespace, determined whether or not spaces can be inserted into the string so that each resulting word exists in the given dictionary. To make things efficient, the dictionary wass preprocessed into a trie (Trie.java). The program should accept the following input: 
 
 java WordSplitter [dictionary] [string]
 
